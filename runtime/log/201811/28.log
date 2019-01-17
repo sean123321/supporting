@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-11-28T10:36:51+08:00 ] 120.192.224.195 POST /admin.php/admin/publics/index.html
+[ info ] www.lcxxszzglzx.cn/admin.php/admin/publics/index.html [运行时间：0.453041s][吞吐率：2.21req/s] [内存消耗：2,865.14kb] [文件加载：72]
+[ error ] [8]session_start(): ps_files_cleanup_dir: opendir(D:\wwwroot\__SESSION) failed: No such file or directory (2)[D:\wwwroot\xszzglzx\wwwroot\thinkphp\library\think\Session.php:106]

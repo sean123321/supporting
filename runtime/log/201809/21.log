@@ -1,0 +1,36 @@
+---------------------------------------------------------------
+[ 2018-09-21T17:05:09+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.344044s][吞吐率：2.91req/s] [内存消耗：2,870.03kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:05:30+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.280068s][吞吐率：3.57req/s] [内存消耗：2,869.94kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:05:53+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.105443s][吞吐率：9.48req/s] [内存消耗：2,870.01kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:06:32+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.149900s][吞吐率：6.67req/s] [内存消耗：2,870.01kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:07:59+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.139956s][吞吐率：7.15req/s] [内存消耗：2,869.94kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:08:15+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.111383s][吞吐率：8.98req/s] [内存消耗：2,869.94kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:14:05+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.106538s][吞吐率：9.39req/s] [内存消耗：2,870.05kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:15:16+08:00 ] 127.0.0.1 POST /admin.php/admin/publics/index.html
+[ info ] supporttingproject.com/admin.php/admin/publics/index.html [运行时间：0.230177s][吞吐率：4.34req/s] [内存消耗：2,869.94kb] [文件加载：71]
+[ error ] [0]类的属性不存在:app\admin\model\AdminUser->passwordpassword[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Model.php:624]
+---------------------------------------------------------------
+[ 2018-09-21T17:25:54+08:00 ] 127.0.0.1 GET /admin.php/admin/index/index.html
+[ info ] supporttingproject.com/admin.php/admin/index/index.html [运行时间：0.061112s][吞吐率：16.36req/s] [内存消耗：1,340.41kb] [文件加载：43]
+[ error ] [2]include_once(D:\phpStudy\WWW\SupporttingProject\version.php): failed to open stream: No such file or directory[D:\phpStudy\WWW\SupporttingProject\app\common\behavior\Base.php:39]

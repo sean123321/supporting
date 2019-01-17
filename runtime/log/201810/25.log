@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-10-25T11:10:41+08:00 ] 220.181.55.144 GET /
+[ info ] xszzglzx.w133-e1.ezwebtest.com/ [运行时间：0.843534s][吞吐率：1.19req/s] [内存消耗：2,397.59kb] [文件加载：56]
+[ error ] [2]file_put_contents(D:\wwwroot\xszzglzx\wwwroot\runtime\cache\5a\1d8a8c9b12a65203d302b2b670f8fc.php): failed to open stream: Invalid argument[D:\wwwroot\xszzglzx\wwwroot\thinkphp\library\think\cache\driver\File.php:159]

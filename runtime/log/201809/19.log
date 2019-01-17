@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-09-19T17:26:07+08:00 ] 127.0.0.1 POST /admin.php/admin/menu/del/ids/212.html
+[ info ] supporttingproject.com/admin.php/admin/menu/del/ids/212.html [运行时间：0.105767s][吞吐率：9.45req/s] [内存消耗：2,901.53kb] [文件加载：73]
+[ error ] [2]session_start(): Cannot send session cache limiter - headers already sent[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Session.php:106]
+---------------------------------------------------------------
+[ 2018-09-19T17:26:16+08:00 ] 127.0.0.1 POST /admin.php/admin/menu/del/ids/212.html
+[ info ] supporttingproject.com/admin.php/admin/menu/del/ids/212.html [运行时间：0.098822s][吞吐率：10.12req/s] [内存消耗：2,901.54kb] [文件加载：73]
+[ error ] [2]session_start(): Cannot send session cache limiter - headers already sent[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Session.php:106]
+---------------------------------------------------------------
+[ 2018-09-19T17:27:37+08:00 ] 127.0.0.1 POST /admin.php/admin/menu/del/ids/212.html
+[ info ] supporttingproject.com/admin.php/admin/menu/del/ids/212.html [运行时间：0.097232s][吞吐率：10.28req/s] [内存消耗：2,901.55kb] [文件加载：73]
+[ error ] [2]session_start(): Cannot send session cache limiter - headers already sent[D:\phpStudy\WWW\SupporttingProject\thinkphp\library\think\Session.php:106]

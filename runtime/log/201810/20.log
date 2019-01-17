@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-10-20T10:31:58+08:00 ] 220.181.55.144 POST /admin.php/admin/publics/index.html
+[ info ] xszzglzx.w133-e1.ezwebtest.com/admin.php/admin/publics/index.html [运行时间：1.765320s][吞吐率：0.57req/s] [内存消耗：2,310.59kb] [文件加载：54]
+[ error ] [2]file_put_contents(D:\wwwroot\xszzglzx\wwwroot\runtime\cache\5a\1d8a8c9b12a65203d302b2b670f8fc.php): failed to open stream: Invalid argument[D:\wwwroot\xszzglzx\wwwroot\thinkphp\library\think\cache\driver\File.php:159]
+---------------------------------------------------------------
+[ 2018-10-20T10:32:06+08:00 ] 220.181.55.144 GET /index.php?controller=block&action=spec_value_list&id=1%20union%20select%201,%28Select%20concat%280x5b,admin_name,0x3a,PassWord,0x5d%29%29,3,4,5,6%20from%20iwebshop_admin
+[ info ] xszzglzx.w133-e1.ezwebtest.com/index.php?controller=block&action=spec_value_list&id=1%20union%20select%201,%28Select%20concat%280x5b,admin_name,0x3a,PassWord,0x5d%29%29,3,4,5,6%20from%20iwebshop_admin [运行时间：0.656120s][吞吐率：1.52req/s] [内存消耗：2,398.32kb] [文件加载：56]
+[ error ] [2]file_put_contents(D:\wwwroot\xszzglzx\wwwroot\runtime\cache\5a\1d8a8c9b12a65203d302b2b670f8fc.php): failed to open stream: Invalid argument[D:\wwwroot\xszzglzx\wwwroot\thinkphp\library\think\cache\driver\File.php:159]
+---------------------------------------------------------------
+[ 2018-10-20T10:32:10+08:00 ] 220.181.55.144 POST /admin.php/admin/publics/index.html
+[ info ] xszzglzx.w133-e1.ezwebtest.com/admin.php/admin/publics/index.html [运行时间：1.280996s][吞吐率：0.78req/s] [内存消耗：2,391.28kb] [文件加载：55]
+[ error ] [2]file_put_contents(D:\wwwroot\xszzglzx\wwwroot\runtime\cache\94\9b5b1d087c0c75e99b8bd0b05c4c4c.php): failed to open stream: Invalid argument[D:\wwwroot\xszzglzx\wwwroot\thinkphp\library\think\cache\driver\File.php:159]
